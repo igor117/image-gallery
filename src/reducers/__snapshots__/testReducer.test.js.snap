@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testReducer should handle GET_PHOTOS 1`] = `
+Immutable.Map {
+  "data": Immutable.List [],
+  "fetching": false,
+  "success": false,
+  "error": null,
+}
+`;
+
+exports[`testReducer should handle SUCCESS 1`] = `
+Immutable.Map {
+  "data": Immutable.List [],
+  "fetching": false,
+  "success": false,
+  "error": null,
+}
+`;
